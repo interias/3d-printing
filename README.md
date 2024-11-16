@@ -19,3 +19,10 @@ An accumulation of my settings and experiences
 - Maybe Part-Cooling-Fan is defect or to weak?
 - Decrease perimeter-speeds, like 30-40 mm/s for outer-perimeter and 80 for inner-perimeter
 - Reduce Bed-Temperature.
+
+## Burned material
+Material and fine threads can get caught on the nozzle and the silicone sock of the hotend and burn. The burnt pieces can get into the print part.
+![Burned material in parts](https://github.com/interias/3d-printing/blob/main/images/burned-material.jpg)
+- Clean your hotend and silicon sock from the outside
+- Reduce print temperature, especially on bright and transparent materials.
+- Clean your nozzle and heatbreak. A good helper can be cleaning filament.
