@@ -12,3 +12,10 @@ An accumulation of my settings and experiences
 - Heat soak your machine for a minimum of one hour! Also Pre-Heat your nozzle to the printing temperature!
 - No Fan-Speed for the first Layers 1-4. Use Fan-Speeds in your Enclosure (Maybe 50% for larger plates, ~80% for smaller plates)! This will shrink your freshly printed locations faster and you’ll have smaller regions of contractions! BUT using the fan also increases the risk of bad layer adhesion!
 - Only as a last resort use Adhesion-Helpers (3DLAC, etc.)!
+
+## Curling:
+![alt text](https://github.com/interias/3d-printing/curling.jpg?raw=true)
+- Try more Part-Cooling-Fan-Speed.
+- Maybe Part-Cooling-Fan is defect or to weak?
+- Decrease perimeter-speeds, like 30-40 mm/s for outer-perimeter and 80 for inner-perimeter
+- Reduce Bed-Temperature.
