@@ -14,7 +14,7 @@ An accumulation of my settings and experiences
 - Only as a last resort use Adhesion-Helpers (3DLAC, etc.)!
 
 ## Curling:
-![alt text](https://github.com/interias/3d-printing/curling.jpg?raw=true)
+![Parts with curling on overhangs](https://github.com/interias/3d-printing/blob/main/images/curling.jpg)
 - Try more Part-Cooling-Fan-Speed.
 - Maybe Part-Cooling-Fan is defect or to weak?
 - Decrease perimeter-speeds, like 30-40 mm/s for outer-perimeter and 80 for inner-perimeter
