@@ -30,3 +30,8 @@ Material and fine threads can get caught on the nozzle and the silicone sock of 
 - Clean your hotend and silicon sock from the outside
 - Reduce print temperature, especially on bright and transparent materials.
 - Clean your nozzle and heatbreak. A good helper can be cleaning filament.
+
+## Greasing/Lubrication of Linear Rails
+- Hiwin's recommendations: https://www.hiwin.com/pdf/lubricating_instructions.pdf 
+- Hiwin explicitly recommends not using greases with solid particles - so anything based on graphite, PTFE/Teflon and MOS2/molybdenum(IV) sulphide is out of the question.
+- recommendations: HIWIN G05, Klüber GL-261, Mobil Mobilux EP1, Fuchs Lubritech Lagermeister BF2, Lubcon TURMOGREASE CAK 2502
