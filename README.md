@@ -34,4 +34,7 @@ Material and fine threads can get caught on the nozzle and the silicone sock of 
 ## Greasing/Lubrication of Linear Rails
 - Hiwin's recommendations: https://www.hiwin.com/pdf/lubricating_instructions.pdf 
 - Hiwin explicitly recommends not using greases with solid particles - so anything based on graphite, PTFE/Teflon and MOS2/molybdenum(IV) sulphide is out of the question.
-- recommendations: HIWIN G05, Klüber GL-261, Mobil Mobilux EP1, Fuchs Lubritech Lagermeister BF2, Lubcon TURMOGREASE CAK 2502
+- Recommendations: HIWIN G05, Klüber GL-261, Mobil Mobilux EP1, Fuchs Lubritech Lagermeister BF2, Lubcon TURMOGREASE CAK 2502
+
+## Timing Belts
+Inexpensive timing belts are unsuitable for ABS pressure chamber temperatures and have a pronounced settling or creeping behavior, or can even break. Money invested in high-quality timing belts for continuous use at 130 °C is a good investment. These belts have low settling and creep behavior so that the A/B belts remain as similar as possible even after several hundred to thousand hours of pressure.
