@@ -1,6 +1,10 @@
 # 3d-printing
 An accumulation of my settings and experiences
 
+## Checklist before starting a print:
+- Slicer: Correct Printer, Profile, Filament used? Checked for Oerhangs/Bridging?
+- Machine: Belt Tension correct? Nozzle unclogged/clean? Any signs of changes on last print?
+
 ## First Layer Problems:
 - Adhesive force is caused by a complex behaviour between two surfaces. Keep your plate very clean! Wash your plate with water, soap and a kitchen sponge (maybe multiple times)! Don’t use IPA! Don’t touch your Plate! Don’t get dust or fibers on your plate (maybe use cleaning paper)! Use one plate for one purpose/material or clean the plates very good (multiple times) between those applications! Maybe wear latex-gloves!
 - Heat your bed up! Slow Down First Layer speed (30-60 mm/s on ABS)! Make your first Layer height larger (0.25 on a 0.4 nozzle)! Do more squish (~0.04) on a textured plate!
