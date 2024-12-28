@@ -42,3 +42,14 @@ Material and fine threads can get caught on the nozzle and the silicone sock of 
 
 ## Timing Belts
 Inexpensive timing belts are unsuitable for ABS pressure chamber temperatures and have a pronounced settling or creeping behavior, or can even break. Money invested in high-quality timing belts for continuous use at 130 °C is a good investment. These belts have low settling and creep behavior so that the A/B belts remain as similar as possible even after several hundred to thousand hours of pressure.
+
+Ensuring Proper Belt Alignment and Tension: The Key to Precision and Consistent Extrusion Patterns
+Before making specific adjustments, such as setting belt tension, analyzing motor frequencies, or other optimizations, it is essential to ensure that the belt is free from transverse stresses. This means that no lateral forces should act on the belt, which could be caused by defective, poorly manufactured, or incorrectly assembled components. Such lateral forces can cause the belt to deviate from its ideal linear motion path, potentially leading to issues like "belt wobble."
+
+A misaligned or unevenly running belt directly affects the motion of the tool head, leading to fluctuations in its movement. These fluctuations can, in turn, result in oscillating extrusion patterns, which negatively impact print quality.
+
+For example, a misaligned idler pulley with a damaged bearing may not rotate smoothly, creating uneven tension in the belt and causing it to run irregularly (see picture below). Similarly, improperly aligned toothed pulleys can cause the belt to sit crookedly on the gear teeth, applying lateral forces that disrupt its linear travel.
+
+![Defect Idler](https://github.com/interias/3d-printing/blob/main/images/defect-idler.jpg)
+
+The observation that the frequency of extrusion patterns changes at different speeds can be explained by the belt's dynamic behavior: at higher speeds, the belt may effectively "skip over" minor imperfections, much like a car driving quickly over a rough grid, experiencing less impact from the unevenness. This highlights the importance of a well-aligned and mechanically sound setup as the foundation for achieving precision in the system.
