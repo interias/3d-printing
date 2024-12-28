@@ -24,6 +24,10 @@ An accumulation of my settings and experiences
 - Decrease perimeter-speeds, like 30-40 mm/s for outer-perimeter and 80 for inner-perimeter
 - Reduce Bed-Temperature.
 
+## Too hot Nozzle-Temperature / Defect Thermistor
+![Too hot printing temperature](https://github.com/interias/3d-printing/blob/main/images/too-hot-printing-temperature.jpg)
+- Strong Vibration Patterns on areas with acceleration/deceleration can be rooted by too hot Noozzle-Temperature. This can be caused by a defect thermistor or not/wrong tuned in PID Control of the Extruder Heater.
+
 ## Burned material
 Material and fine threads can get caught on the nozzle and the silicone sock of the hotend and burn. The burnt pieces can get into the print part.
 ![Burned material in parts](https://github.com/interias/3d-printing/blob/main/images/burned-material.jpg)
